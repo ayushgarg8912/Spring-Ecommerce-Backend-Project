@@ -374,9 +374,7 @@ Passionate about building scalable and secure backend systems using **Java & Spr
 # 🔗 Connect With Me
 
 - GitHub: https://github.com/ayushgarg8912
-- LinkedIn: Add Your LinkedIn Here
-- Email: Add Your Email Here
-
+- portfolio - https://portfolio-six-phi-52.vercel.app/
 ---
 
 # ⭐ Support
